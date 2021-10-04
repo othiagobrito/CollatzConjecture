@@ -1,4 +1,4 @@
-number = 30
+number = 15
 step = 0
 n_list = []
 n_list.append(number)
